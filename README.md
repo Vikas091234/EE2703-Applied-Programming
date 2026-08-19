@@ -499,20 +499,6 @@ Specific tasks also use:
 
 ---
 
-# Notes on repository accuracy
-
-This README is based on the supplied repository contents.
-
-A few differences from the previous README are intentional:
-
-- The actual top-level directories are `Assignment_1` through `Assignment_10`; there is no `assignments/` wrapper directory.
-- There is no top-level `requirements.txt` in the supplied repository.
-- There is no top-level `.gitignore` or `LICENSE` shown in the supplied coursework tree.
-- Assignment 7's implementation is actually named `code_.py`.
-- Assignment 10 does not contain its own `README.md`; its documentation is represented by the root documentation and the code/report files.
-- The repository contains generated plot images and report PDFs, and these are retained in the documented structure.
-- `.git/` is omitted because it is Git metadata rather than project/coursework content.
-
 ## Author
 
 **Vikas Raj**  
